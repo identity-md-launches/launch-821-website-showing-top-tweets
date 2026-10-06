@@ -1,0 +1,13 @@
+!dist/
+!dist/**
+!artifacts/
+!artifacts/**
+**/node_modules/
+**/.npm/
+**/.vite/
+**/.cache/
+**/coverage/
+**/*.tsbuildinfo
+test/scratch/
+.playwright-mcp/
+.DS_Store

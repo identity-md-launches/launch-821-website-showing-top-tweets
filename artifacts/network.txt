@@ -1,0 +1,7 @@
+1. [GET] http://127.0.0.1:4173/preview/ => [200] OK
+2. [GET] http://127.0.0.1:4173/preview/assets/index-oXmUnnhS.js => [304] Not Modified
+3. [GET] http://127.0.0.1:4173/preview/assets/index-DpSiIc-P.css => [304] Not Modified
+4. [GET] http://127.0.0.1:4173/preview/assets/inter-latin-wght-normal-Dx4kXJAl.woff2 => [200] OK
+5. [GET] http://127.0.0.1:4173/preview/pepe-ai.webp => [304] Not Modified
+6. [GET] http://127.0.0.1:4173/preview/favicon.svg => [200] OK
+7. [GET] http://127.0.0.1:4173/axe.min.js => [200] OK

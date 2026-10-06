@@ -1,0 +1,13 @@
+{
+  "method": "Screenshot of actual featured-card background with child visibility temporarily hidden, geometry preserved; content area excludes 20px perimeter. Compared computed foregrounds with brightest sampled background. Content restored afterwards.",
+  "brightestBackgroundRGB": [
+    27,
+    43,
+    28
+  ],
+  "minimumContrastRatios": {
+    "foreground": 5.41,
+    "bodyForeground": 12.91,
+    "secondaryForeground": 6.58
+  }
+}

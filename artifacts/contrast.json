@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Body tweet text",
+    "foreground": "rgb(236, 240, 231)",
+    "background": "rgb(19, 30, 23)",
+    "backgroundImage": "none",
+    "ratio": 14.84,
+    "fontSize": "16px"
+  },
+  {
+    "name": "Secondary card copy",
+    "foreground": "rgb(163, 176, 160)",
+    "background": "rgb(19, 30, 23)",
+    "backgroundImage": "none",
+    "ratio": 7.57,
+    "fontSize": "12px"
+  },
+  {
+    "name": "Muted handle",
+    "foreground": "rgb(145, 160, 141)",
+    "background": "rgb(19, 30, 23)",
+    "backgroundImage": "none",
+    "ratio": 6.21,
+    "fontSize": "12px"
+  },
+  {
+    "name": "Input placeholder",
+    "foreground": "rgb(145, 160, 141)",
+    "background": "rgb(16, 25, 18)",
+    "backgroundImage": "none",
+    "ratio": 6.51,
+    "fontSize": "13px"
+  },
+  {
+    "name": "Primary action",
+    "foreground": "rgb(24, 38, 17)",
+    "background": "rgb(185, 237, 120)",
+    "backgroundImage": "none",
+    "ratio": 11.67,
+    "fontSize": "13px"
+  },
+  {
+    "name": "Focus ring",
+    "foreground": "rgb(208, 250, 158)",
+    "background": "rgb(12, 21, 16)",
+    "backgroundImage": "none",
+    "ratio": 15.79,
+    "fontSize": "16px"
+  }
+]

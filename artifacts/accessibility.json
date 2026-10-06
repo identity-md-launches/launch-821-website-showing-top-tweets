@@ -1,0 +1,58 @@
+{
+  "engine": "4.10.3",
+  "viewport": [
+    1440,
+    1000
+  ],
+  "violations": [],
+  "passes": 27,
+  "incomplete": [
+    {
+      "id": "color-contrast",
+      "nodes": [
+        [
+          "#ansem-imd > .card-topline > .topic-label"
+        ],
+        [
+          "#ansem-imd > .card-topline > .rank"
+        ],
+        [
+          "a[href$=\"blknoiz06\"]"
+        ],
+        [
+          "#ansem-imd > .author-row > .author-info > .handle"
+        ],
+        [
+          "#ansem-imd > .author-row > .x-mark[aria-hidden=\"true\"]"
+        ],
+        [
+          "#ansem-imd > blockquote"
+        ],
+        [
+          "#ansem-imd > .post-context"
+        ],
+        [
+          "#ansem-imd > .metrics[aria-label=\"Captured engagement counts\"][role=\"group\"] > span[title=\"Captured likes\"]"
+        ],
+        [
+          "#ansem-imd > .metrics[aria-label=\"Captured engagement counts\"][role=\"group\"] > span[title=\"Captured reposts\"]"
+        ],
+        [
+          "#ansem-imd > .metrics[aria-label=\"Captured engagement counts\"][role=\"group\"] > span[title=\"Captured replies\"]"
+        ],
+        [
+          "#ansem-imd > .metrics[aria-label=\"Captured engagement counts\"][role=\"group\"] > span[title=\"Captured views\"]"
+        ],
+        [
+          "#ansem-imd > .card-footer > .source-link[href$=\"imdradar\"][target=\"_blank\"]"
+        ],
+        [
+          ".s1"
+        ],
+        [
+          ".s3"
+        ]
+      ]
+    }
+  ]
+}

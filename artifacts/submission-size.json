@@ -1,0 +1,46 @@
+{
+  "limitBytes": 8388608,
+  "totalBytes": 1986815,
+  "fileCount": 40,
+  "remainingBytes": 6401793,
+  "excludedInputsAndMetadata": [
+    ".agents",
+    ".aws",
+    ".codex",
+    ".git",
+    ".github",
+    ".imd",
+    ".playwright-mcp",
+    "test"
+  ],
+  "sourceMatchesFinalBuild": true,
+  "distMatchesFinalBuild": true,
+  "ignoreFileBudgetBytes": 512,
+  "ignoreFileActualBytes": 160,
+  "export": {
+    "dist/assets/index-DpSiIc-P.css": {
+      "bytes": 29115,
+      "sha256": "2b2951a16abb5b9a93aa233f0d5451051136e5bcc0bb33fc71636138d7452028"
+    },
+    "dist/assets/index-oXmUnnhS.js": {
+      "bytes": 219707,
+      "sha256": "378dd044284486bf6dbf8aab24e734f35985e0d4cc1edc409ca51e8fa98ab1af"
+    },
+    "dist/assets/inter-latin-wght-normal-Dx4kXJAl.woff2": {
+      "bytes": 48256,
+      "sha256": "3100e775e8616cd2611beecfa23a4263d7037586789b43f035236a2e6fbd4c62"
+    },
+    "dist/favicon.svg": {
+      "bytes": 536,
+      "sha256": "348c19faba1c7bf44750f02a7e4fe4e9a6552e07717e6eff2b0f40e337679d5d"
+    },
+    "dist/index.html": {
+      "bytes": 716,
+      "sha256": "a7c8f41bc711430e2927de888280f5cd10e1d5efd5fdbdb21175290afb9dca12"
+    },
+    "dist/pepe-ai.webp": {
+      "bytes": 104124,
+      "sha256": "7f1490f2d32496a1274e25fabc5d8d2ee6c313cda678e73c8f07b2058d05ecb7"
+    }
+  }
+}
